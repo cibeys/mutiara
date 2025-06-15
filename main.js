@@ -66,7 +66,7 @@ sr.reveal('.skills__data, .work__img, .contact__input', { interval: 200 });
 
 /*====  efekmengetik  ====*/
 const dynamicText = document.querySelector("h2 span");
-const words = ["Mutiara Azika", "Mutiara Azika", "Mutiara Azika", "Mutiara Azika"];
+const words = ["Mutiara Azkia", "Mutiara Azkia", "Mutiara Azkia", "Mutiara Azkia"];
 // Variables to track the position and deletion status of the word
 let wordIndex = 0;
 let charIndex = 0;
